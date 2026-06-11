@@ -1,9 +1,8 @@
-# Python Calculator
+# 🧮 Python Calculator
 
 A simple command-line calculator built with Python.
 
 ## Features
-
 - Addition
 - Subtraction
 - Multiplication
@@ -11,14 +10,8 @@ A simple command-line calculator built with Python.
 - Multiple operations
 - Error handling
 
-## Example
-
-Input:
-2+3*4
-
-Output:
-14
+## Technologies Used
+- Python 3
 
 ## Author
-
 Kunal Pandey
