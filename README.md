@@ -2,16 +2,12 @@
 
 A simple command-line calculator built with Python.
 
-## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Multiple operations
-- Error handling
+## ✨ Features
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- ⚠️ Error handling
 
-## Technologies Used
-- Python 3
-
-## Author
+## 👨‍💻 Author
 Kunal Pandey
