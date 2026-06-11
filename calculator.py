@@ -1,10 +1,10 @@
 # =========================
-#     PYHTON CALCULATOR
+#     PYTHON CALCULATOR
 # =========================
 
 # Display welcome message
 print("=========================")
-print("     PYHTON CALCULATOR")
+print("     PYTHON CALCULATOR")
 print("=========================")
 print("Examples:")
 print("  2 + 3")
